@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-preview-card-component-KGB2r9tx60))
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/product-preview-card-component-KGB2r9tx60)
 - Live Site URL: [Here](https://hudamab95.github.io/Product-preview-card-component/)
 
   
