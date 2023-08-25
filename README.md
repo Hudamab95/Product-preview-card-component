@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](imgaes/screenshot-mobile.png)
+![](imgaes/screenshot-desktop.png)
 
 ### Links
 
