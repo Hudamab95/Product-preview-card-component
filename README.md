@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([live site](https://hudamab95.github.io/Product-preview-card-component/)]
+- Live Site URL: ([Add live site URL here](https://hudamab95.github.io/Product-preview-card-component/)]
 
   
 ## My process
