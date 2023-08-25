@@ -24,7 +24,6 @@ Users should be able to:
 ### Screenshot
 
 ![screenshot](imgaes/screenshot-mobile.png)
-![screenshot](imgaes/screenshot-desktop.png)
 
 ### Links
 
